@@ -1,0 +1,25 @@
+[18-Dec-2023 13:02:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`nhjobxpt_utd7.jobshunt`.`jh_report`, CONSTRAINT `jh_report_ibfk_1` FOREIGN KEY (`report_sender_id`) REFERENCES `jh_app_user` (`uid`)) in /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php:19
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php on line 19
+[18-Dec-2023 13:02:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`nhjobxpt_utd7.jobshunt`.`jh_report`, CONSTRAINT `jh_report_ibfk_1` FOREIGN KEY (`report_sender_id`) REFERENCES `jh_app_user` (`uid`)) in /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php:19
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php on line 19
+[18-Dec-2023 13:02:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`nhjobxpt_utd7.jobshunt`.`jh_report`, CONSTRAINT `jh_report_ibfk_1` FOREIGN KEY (`report_sender_id`) REFERENCES `jh_app_user` (`uid`)) in /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php:19
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php on line 19
+[18-Dec-2023 13:07:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`nhjobxpt_utd7.jobshunt`.`jh_report`, CONSTRAINT `jh_report_ibfk_1` FOREIGN KEY (`report_sender_id`) REFERENCES `jh_app_user` (`uid`)) in /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php:19
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php on line 19
+[19-Dec-2023 11:31:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`nhjobxpt_utd7.jobshunt`.`jh_report`, CONSTRAINT `jh_report_ibfk_1` FOREIGN KEY (`report_sender_id`) REFERENCES `jh_app_user` (`uid`)) in /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php:19
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php(19): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/report/create_report.php on line 19

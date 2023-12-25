@@ -1,0 +1,80 @@
+[14-Dec-2023 21:56:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 21:56:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 21:58:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 21:59:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 22:05:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 22:08:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 22:08:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 22:09:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 22:09:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 22:10:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 22:11:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 22:14:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 22:16:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 41
+[14-Dec-2023 22:16:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 42
+[14-Dec-2023 22:19:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 51
+[14-Dec-2023 22:19:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 42
+[14-Dec-2023 22:19:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 42
+[14-Dec-2023 22:19:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 39
+[14-Dec-2023 22:20:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 38
+[14-Dec-2023 22:22:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/count/check_count.php on line 57

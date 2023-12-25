@@ -1,0 +1,538 @@
+[18-Dec-2023 04:49:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 12:34:11 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user_id in /home/nhjobxpt/public_html/app_auth/api/auth/profile/remove_follower.php on line 20
+[18-Dec-2023 12:34:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user_id in /home/nhjobxpt/public_html/app_auth/api/auth/profile/remove_follower.php on line 20
+[18-Dec-2023 12:34:21 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $user_id in /home/nhjobxpt/public_html/app_auth/api/auth/profile/remove_favorive.php on line 20
+[18-Dec-2023 14:01:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 15:14:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 15:38:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 20:40:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 20:41:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 20:47:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 20:47:51 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 20:56:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:08:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:20:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:20:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:24:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:29:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:30:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:33:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:35:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:42:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:45:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:58:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 21:58:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:03:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:08:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:11:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:11:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:12:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:14:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:14:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:15:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:16:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:19:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:20:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:21:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:23:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:23:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:25:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:26:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:28:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:28:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:31:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:46:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 22:51:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 23:06:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 23:21:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 23:38:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 23:43:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 23:44:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 23:45:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[18-Dec-2023 23:46:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 00:00:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 00:01:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 08:31:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 08:42:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 08:56:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 08:57:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 08:57:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 08:57:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 08:57:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 08:57:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 08:58:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 08:58:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 08:59:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 08:59:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:00:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '4' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 09:00:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:08:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:12:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:12:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:13:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '4' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 09:18:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:18:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '85' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 09:18:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '85' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 09:23:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:26:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:27:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:27:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:32:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:40:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:42:07 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:42:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:46:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:47:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:47:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:51:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '4' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 09:53:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:55:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 09:56:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '4' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 09:57:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '4' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 09:59:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '4' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 09:59:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '4' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 10:02:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 10:02:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 10:04:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 10:05:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 10:07:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '4' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 10:07:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 10:08:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 10:08:49 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 10:08:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 10:09:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 10:10:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '84' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 10:10:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 10:10:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 10:13:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 10:15:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27
+[19-Dec-2023 10:15:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '4' for key 'PRIMARY' in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php:28
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php(28): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/create_profile_recommend_setting.php on line 28
+[19-Dec-2023 10:21:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php:27
+Stack trace:
+#0 /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php(27): mysqli->query()
+#1 {main}
+  thrown in /home/nhjobxpt/public_html/app_auth/api/auth/profile/profile_recommend_setting.php on line 27

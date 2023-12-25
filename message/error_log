@@ -1,0 +1,4 @@
+[14-Dec-2023 23:19:44 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/nhjobxpt/public_html/app_auth/api/auth/message/add_conversation.php on line 10
+[14-Dec-2023 23:21:35 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/nhjobxpt/public_html/app_auth/api/auth/message/add_conversation.php on line 10
+[14-Dec-2023 23:25:16 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/nhjobxpt/public_html/app_auth/api/auth/message/add_conversation.php on line 10
+[14-Dec-2023 23:25:55 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/nhjobxpt/public_html/app_auth/api/auth/message/add_conversation.php on line 10
